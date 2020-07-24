@@ -1,35 +1,103 @@
 
   {
-  "posts": [
+  "burmesetv": [
     {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+      "id": "https://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8?checkedby:iptvcat.com",
+      "title": "MRTV 4",
+      "description": "https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4.jpg"
     },
     {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
+      "id": "https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8?checkedby:iptvcat.com",
+      "title": "Channel K",
+      "description": "https://image.winudf.com/v2/image1/Y29tLmZ1cmV0ZWNobW0ubGl2ZXN0cmVhbV9zY3JlZW5fM18xNTU1MTM3MTI0XzAxNA/screen-3.jpg?fakeurl=1&type=.jpg"
     },
     {
-      "id": 3,
+      "id": "https://maharlive.b-cdn.net/stream.m3u8?checkedby:iptvcat.com",
+      "title": "Mahar TV",
+      "description": "https://dl1.cbsistatic.com/i/2016/09/06/34664bd4-909a-4e3c-ba3d-5ff09b0850b8/72852f9293bfe6c79bf06b297abe2345/imgingest-4325047842069431802.png"
+    },
+    {
+      "id": "http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:iptvcat.com",
+      "title": "Mizzima TV",
+      "description": "https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4.jpg"
+    }
+  ],
+    "football": [
+    {
+      "id": "https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8",
+      "title": "Skynet1",
+      "description": "https://i.postimg.cc/50VYVfbj/Skynet-1.png"
+    },
+    {
+      "id": "https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8",
+      "title": "Skynet 2",
+      "description": "https://i.postimg.cc/cHBK1PLh/Skynet-2.png"
+    },
+    {
+      "id": "https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8",
+      "title": "Skynet 3",
+      "description": "https://i.postimg.cc/Kjc11QK2/skynet-3.png"
+    },
+      {
+      "id": "https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8",
+      "title": "Skynet 4",
+      "description": "https://i.postimg.cc/X7JZ3HSK/Skynet-6.png"
+    },
+      {
+      "id": "https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8",
+      "title": "Skynet 5",
+      "description": "https://i.postimg.cc/gc4wC95k/Skynet-5.png"
+    },
+      {
+      "id": "https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8",
+      "title": "Skynet 6",
+      "description": "https://i.postimg.cc/X7JZ3HSK/Skynet-6.png"
+    },
+      {
+      "id": "https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8",
+      "title": "Skynet HD",
+      "description": "https://i.postimg.cc/BbhXHDD1/Skynet-HD.png"
+    }
+  ],
+    "movies": [
+    {
+      "id":"https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8",
+      "title": "HBO",
+      "description": "https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png"
+    },
+    {
+      "id": "https://timesnow.airtel.tv/live/MNX_pull/master.m3u8",
+      "title": "MNX Movies",
+      "description": "https://static.iptv-epg.com/in/MNX2.in.png"
+    },
+    {
+      "id": "",
       "title": "Post 3",
       "description": "this is description 3"
     }
   ],
-  "comments": [
+  "discovery": [
     {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
+      "id": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8",
+      "title": "Discovery",
+      "description": "https://static.iptv-epg.com/us/DiscoveryChannel.us.png"
     },
     {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
+      "id": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8",
+      "title": "National Geo Wild",
+      "description": ""
     }
   ],
-  "profile": {
-    "name": "Profile 1"
-  }
+  "adult": [
+    {
+      "id": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8",
+      "title": "Discovery",
+      "description": "https://static.iptv-epg.com/us/DiscoveryChannel.us.png"
+    },
+    {
+      "id": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8",
+      "title": "National Geo Wild",
+      "description": ""
+    }
+  ]
 }
