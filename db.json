@@ -24,49 +24,49 @@
   ],
     "football": [
     {
-      "id": "https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8",
+      "id": "https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8",
       "title": "Skynet1",
       "description": "https://i.postimg.cc/50VYVfbj/Skynet-1.png"
     },
     {
-      "id": "https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8",
+      "id": "https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8",
       "title": "Skynet 2",
       "description": "https://i.postimg.cc/cHBK1PLh/Skynet-2.png"
     },
     {
-      "id": "https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8",
+      "id": "https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8",
       "title": "Skynet 3",
       "description": "https://i.postimg.cc/Kjc11QK2/skynet-3.png"
     },
       {
-      "id": "https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8",
+      "id": "https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8",
       "title": "Skynet 4",
-      "description": "https://i.postimg.cc/X7JZ3HSK/Skynet-6.png"
+      "description": "https://i.postimg.com/X7JZ3HSK/Skynet-6.png"
     },
       {
-      "id": "https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8",
+      "id": "https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8",
       "title": "Skynet 5",
-      "description": "https://i.postimg.cc/gc4wC95k/Skynet-5.png"
+      "description": "https://i.postimg.com/gc4wC95k/Skynet-5.png"
     },
       {
-      "id": "https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8",
+      "id": "https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8",
       "title": "Skynet 6",
-      "description": "https://i.postimg.cc/X7JZ3HSK/Skynet-6.png"
+      "description": "https://i.postimg.com/X7JZ3HSK/Skynet-6.png"
     },
       {
-      "id": "https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8",
+      "id": "https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8",
       "title": "Skynet HD",
-      "description": "https://i.postimg.cc/BbhXHDD1/Skynet-HD.png"
+      "description": "https://i.postimg.com/BbhXHDD1/Skynet-HD.png"
     }
   ],
     "movies": [
     {
-      "id":"https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8",
+      "id":"https://livedoomovies.com/02_HBOHD_720p/chunklist.m3u8",
       "title": "HBO",
       "description": "https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png"
     },
     {
-      "id": "https://timesnow.airtel.tv/live/MNX_pull/master.m3u8",
+      "id": "https://timesnow.airtel.com/live/MNX_pull/master.m3u8",
       "title": "MNX Movies",
       "description": "https://static.iptv-epg.com/in/MNX2.in.png"
     },
@@ -78,24 +78,24 @@
   ],
   "discovery": [
     {
-      "id": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8",
+      "id": "https://liveanevia.mncnow.com/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8",
       "title": "Discovery",
       "description": "https://static.iptv-epg.com/us/DiscoveryChannel.us.png"
     },
     {
-      "id": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8",
+      "id": "http://livecdnh1.tvanywhere.com/hls/nat_geo_wild/05.m3u8",
       "title": "National Geo Wild",
       "description": ""
     }
   ],
   "adult": [
     {
-      "id": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8",
+      "id": "https://liveanevia.mncnow.com/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8",
       "title": "Discovery",
       "description": "https://static.iptv-epg.com/us/DiscoveryChannel.us.png"
     },
     {
-      "id": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8",
+      "id": "http://livecdnh1.tvanywhere.com/hls/nat_geo_wild/05.m3u8",
       "title": "National Geo Wild",
       "description": ""
     }
