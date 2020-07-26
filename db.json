@@ -19,44 +19,72 @@
     {
       "id": "http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:iptvcat.com",
       "title": "Mizzima TV",
-      "description": "https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4.jpg"
+      "description": "http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png"
+    },
+      {"id": "https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg",
+      "title": "Mahar BawDi TV",
+      "description": "http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png"
+    },
+      {"description": "https://static.epg.best/th/Channel7.th.png",
+      "title": "Channel 7",
+      "id": "http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8"
+    },
+      {"description": "http://www.myanmartvchannels.com/assets/images/channeliconb/mwdshopping2.jpg",
+      "title": "MWD Shopping",
+      "id": "http://203.81.84.130/hls/mwd_shopping/index.m3u8"
+    },
+      {"description": "http://www.myanmartvchannels.com/assets/images/channeliconb/mwdfamily2.jpg",
+      "title": "MWD Family",
+      "id": "http://203.81.84.130/hls/mwd_family/index.m3u8"
+    },
+      {"id": "http://203.81.84.130/hls/mwd_variety/index.m3u8",
+      "title": "MWD Variety",
+      "description": "http://www.myanmartvchannels.com/assets/images/channeliconb/mwd-variety.jpg"
+    },
+      {"id":"http://203.81.84.130/hls/mwd/index.m3u8",
+      "title": "MWD",
+      "description": "http://www.myanmartvchannels.com/assets/images/channeliconb/mwd1.jpg"
+    },
+      {"id":"http://203.81.84.130/hls/mwd/index.m3u8",
+      "title": "MWD",
+      "description": "http://www.myanmartvchannels.com/assets/images/channeliconb/mwd1.jpg"
     }
   ],
     "football": [
     {
       "id": "https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8",
       "title": "Skynet1",
-      "description": "https://i.postimg.cc/50VYVfbj/Skynet-1.png"
+      "description": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png"
     },
     {
       "id": "https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8",
       "title": "Skynet 2",
-      "description": "https://i.postimg.cc/cHBK1PLh/Skynet-2.png"
+      "description": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png"
     },
     {
       "id": "https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8",
       "title": "Skynet 3",
-      "description": "https://i.postimg.cc/Kjc11QK2/skynet-3.png"
+      "description": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png"
     },
       {
-      "id": "https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8",
+      "id": "https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8",
       "title": "Skynet 4",
-      "description": "https://i.postimg.com/X7JZ3HSK/Skynet-6.png"
+      "description": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png"
     },
       {
       "id": "https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8",
       "title": "Skynet 5",
-      "description": "https://i.postimg.com/gc4wC95k/Skynet-5.png"
+      "description": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png"
     },
       {
       "id": "https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8",
       "title": "Skynet 6",
-      "description": "https://i.postimg.com/X7JZ3HSK/Skynet-6.png"
+      "description": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png"
     },
       {
       "id": "https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8",
       "title": "Skynet HD",
-      "description": "https://i.postimg.com/BbhXHDD1/Skynet-HD.png"
+      "description": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png"
     }
   ],
     "movies": [
